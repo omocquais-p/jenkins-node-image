@@ -2,4 +2,5 @@
 ./build.sh
 
 # Run the container image
-docker run -it jenkins-node-ubuntu bash
+docker run -it gitops bash
+docker run -it omocquais/gitops bash
